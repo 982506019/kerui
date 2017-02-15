@@ -1,0 +1,16 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.full-screen{
+	box-sizing: border-box;
+}
+.title{
+	box-sizing: border-box;
+}
+.container{
+	padding-top: 80px;
+}
+.version-list{
+	margin-top: 80px;
+}
